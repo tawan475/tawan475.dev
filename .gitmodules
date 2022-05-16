@@ -1,12 +1,16 @@
 [submodule "tawan475.dev-webserver"]
 	path = tawan475.dev-webserver
 	url = https://github.com/tawan475/tawan475.dev-webserver.git
+	branch = main
 [submodule "api.tawan475.dev"]
 	path = api.tawan475.dev
 	url = https://github.com/tawan475/api.tawan475.dev.git
+	branch = main
 [submodule "go.tawan475.dev"]
 	path = go.tawan475.dev
 	url = https://github.com/tawan475/go.tawan475.dev.git
+	branch = main
 [submodule "tawan475.dev-proxy"]
 	path = tawan475.dev-proxy
 	url = https://github.com/tawan475/tawan475.dev-proxy.git
+	branch = main
