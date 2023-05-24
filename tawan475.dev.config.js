@@ -48,9 +48,9 @@ module.exports = {
     }
   },
   {
-    name   : "proxy",
-    script : "./proxy.js",
-	cwd: "./tawan475.dev-proxy",
+    name   : "portfolio",
+    script : "./portfolio.tawan475.dev.js",
+	cwd: "./portfolio.tawan475.dev",
 	"watch": true,
     "ignore_watch": [
       "node_modules",
